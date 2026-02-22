@@ -1,0 +1,1 @@
+const car = {type:"Alto",model:101, color:"red" }
